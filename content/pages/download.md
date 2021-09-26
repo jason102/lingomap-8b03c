@@ -20,7 +20,6 @@ sections:
               <img src="/images/GetItOnGooglePlay.png" />
             </a>
           </p>
-          ![](/images/GetItOnGooglePlay.png)
 
 
           We strongly recommend installing the app through Google Play so you
@@ -34,7 +33,11 @@ sections:
           for manual installation.
 
 
-          ![](https://preview--lingomap-8b03c.stackbit.dev/images/Troublemaker%20horizontal.png)
+          <p align="center">
+            <a href="https://troublemaker.site/" target="_blank">
+              <img src="/images/Troublemaker%20horizontal.png" />
+            </a>
+          </p>
 
 
           Click here to download the .apk installer file!
