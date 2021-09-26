@@ -15,6 +15,11 @@ sections:
         image_align: center
         image_has_padding: false
         content: >
+          <p align="center">
+            <a href="https://play.google.com/store/apps/details?id=com.lingomap" target="_blank">
+              <img src="/images/GetItOnGooglePlay.png" />
+            </a>
+          </p>
           ![](/images/GetItOnGooglePlay.png)
 
 
