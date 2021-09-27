@@ -40,12 +40,7 @@ sections:
           </p>
 
 
-          Click here to download the .apk installer file!
-
-
-          If you are viewing this page in WeChat, you may have to open this link
-          in your phone's separate web browser app outside of WeChat as WeChat
-          does not allow directly installing app files.
+          <a href="https://troublemaker.site/?page_id=20" target="_blank">Click here to download the .apk installer file!</a>
       - title: iOS
         title_align: center
         content: |
