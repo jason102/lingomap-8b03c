@@ -107,7 +107,7 @@ sections:
 
       ##### Support Us
 
-      Go to our Support Us page to see how you can help out!
+      [Go to our Support Us page to see how you can help out!](/support-us)
 
       ##### Contact Us
 
