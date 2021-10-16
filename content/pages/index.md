@@ -105,6 +105,10 @@ sections:
 
       [Click here to read more about our journey!](/about)
 
+      ##### Support Us
+
+      Go to our Support Us page to see how you can help out!
+
       ##### Contact Us
 
       Please send us an email at: lingomapapp@gmail.com
